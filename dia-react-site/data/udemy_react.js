@@ -16,19 +16,36 @@ module.exports._ = {
             sub_section_2: {}
         },
     },
-    section_: {
+    section_3: {
+        id: 3,
         title: "State and Props",
         sub_chapters: {
             sub_section_1: {},
             sub_section_2: {}
         },
     },
-    section_: {
-      
-        title: "State and Props",
+    section_4: {
+        id: 4,
+        title: "Data and Libraries",
         sub_chapters: {
             sub_section_1: {},
             sub_section_2: {}
         },
-    } 
+    }, 
+    section_5: {
+        id: 5,
+        title: "Actions, Reducers, Redux",
+        sub_chapters: {
+            sub_section_1: {},
+            sub_section_2: {}
+        },
+    },
+    section_6: {
+        id: 6,
+        title: "Project - Github Profile",
+        sub_chapters: {
+            sub_section_1: {},
+            sub_section_2: {}
+        },
+    },    
 }
