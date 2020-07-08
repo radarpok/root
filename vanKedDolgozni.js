@@ -1,3 +1,4 @@
+
 //console.log("commands.js");
 
 //const dolgoz =()=>{};
@@ -33,7 +34,7 @@ if(getWeekDay(date) === "friday")
     console.log("ma péntek van, a heti teljesítményemre vonatkozó elégedettségem függvényében állítom be a szabadidő és munka egyensúlyát");
 
 if(getWeekDay(date) === "saturday")
-    console.log("ma szombat van, mindenki felüdülhet ahogy szeretne");
+    console.log("ma szombat van, legyen ez a függetlenség napja");
 
 function dolgoz(_){
     if(_ === 1){

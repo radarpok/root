@@ -5,7 +5,9 @@ module.exports.command_shortcuts=
         xdg_open: "opens a file from terminal"
         // xdg-open
     },
-    vs_code:{},
+    vs_code:{
+        node_fileNamedotjs: "run a js file through the terminal",
+    },
     total_commander:{},
     excel:{},
     word:{},

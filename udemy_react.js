@@ -16,19 +16,36 @@ module.exports.udemy_react_sections = {
             sub_section_2: {}
         },
     },
-    section_: {
+    section_3: {
+        id: 3,
         title: "3. State and Props",
         sub_chapters: {
             sub_section_1: {},
             sub_section_2: {}
         },
     },
-    section_: {
-      
-        title: "3. State and Props",
+    section_4: {
+        id: 4,
+        title: "4. Data and Libraries",
+        sub_chapters: {
+            sub_section_1: {},
+            sub_section_2: {}
+        },    
+    },
+    section_5: {
+        id: 5,
+        title: "5. Actions, Reducers, Redux",
         sub_chapters: {
             sub_section_1: {},
             sub_section_2: {}
         },
-    } 
+    },    
+    section_6: {
+        id: 6,
+        title: "6. Project - Github Profile",
+        sub_chapters: {
+            sub_section_1: {},
+            sub_section_2: {}
+        },
+    }    
 }
