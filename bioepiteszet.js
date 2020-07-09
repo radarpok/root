@@ -1,4 +1,9 @@
 module.exports.bioepiteszet = {
+    author: "Szász János",
+    subtitle: "Környezetbarát építőknek",
+    publisher: "Mezőgazdasági Kiadó Planétás Vgmk Budapest",
+    date: "1989",
+    place: "Debrecen",
     section_1: {
         page: 4,
         title: "A növekedés határai és következményei",
@@ -53,15 +58,32 @@ module.exports.bioepiteszet = {
                 page: 21,
                 title: "Energiaellátás másképpen"
             },
-            sub_section_2: {}
+            sub_section_2: {
+                page: 23,
+                title: "Közművek helyett"
+            },
+            sub_section_3: {
+                page: 24,
+                title: "Növényépítészet"
+            },
+            sub_section_4: {
+                page: 25,
+                title: "Bioépítészeti műleírás"
+            }
         },    
     },
     section_5: {
         page: 28,
-        title: "",
+        title: "Bipolisz: vízió vagy lehetőség",
         sub_chapters: {
-            sub_section_1: {},
-            sub_section_2: {}
+            sub_section_1: {
+                page: 29,
+                title: "Biovárosi kilátások"
+            },
+            sub_section_2: {
+                page: 29,
+                title: "Városgyógyászati javaslatok"
+            }
         },
     },    
     section_6: {
